@@ -1,0 +1,186 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Cinzel', serif;
+}
+.head{
+    height: inherit;
+    text-align: center;
+    text-size-adjust: 60%;
+    padding-top: 10%;
+    background-size: cover;
+    background-image: url(images/ddnet.webp);
+        
+} 
+#link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(228, 70, 70, 0),rgb(243, 13, 13));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px
+}  
+p{
+    font-size: larger;
+    color: aliceblue;
+}
+h1{
+    font-size: xx-large;
+    color: aliceblue;
+}
+.donate{
+    text-align: center;
+    padding-top: 3%;
+}
+.amount{
+    text-align: center;
+}
+#add-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(176, 185, 176),rgb(142, 153, 142));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+#insert-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(196, 107, 107),rgb(204, 101, 101));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+#give-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(176, 185, 176),rgb(142, 153, 142));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+#push-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(176, 185, 176),rgb(142, 153, 142));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+#take-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(176, 185, 176),rgb(142, 153, 142));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.taka{
+    text-align: center;
+    padding-top: 2%;
+}
+#donate-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(51, 8, 8, 0),rgb(177, 34, 34));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.center{
+    text-align: center;
+    padding-top: 7%;
+}
+section{
+    display: flex;
+
+}
+.division{
+    box-shadow: 5px 5px 20px;
+    width:30%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%;
+    background-color: rgb(212, 233, 240);
+}
+.dvsn{
+    box-shadow: 8px 8px 20px;
+    width:30%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-left: 3%;
+    padding-top: 2%;
+    padding-right: 3%;
+    background-color: rgb(236, 212, 224);
+}
+.vsn{
+    box-shadow: 8px 8px 20px;
+    width:30%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-left: 3%;
+    padding-top: 2%;
+    padding-right: 3%;
+    background-color: rgb(243, 227, 205);
+}
+.depend{
+    width: 40%;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right:5%
+}
+.image{
+    padding-top: 5%;
+    padding-right:15% ;
+    padding-bottom: 10%;
+    width: 30%;
+    height: 10%;
+}
+#again-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(228, 70, 70, 0),rgb(243, 13, 13));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px
+}
+.need{
+    width: 50%;
+    padding-left:15% ;
+    padding-top: 1.5%;
+}
+.describe{
+   width: 60%;
+   padding-right: 15%; 
+}
+#last-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(228, 70, 70, 0),rgb(243, 13, 13));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px
+}
+.last{
+    text-align: center;
+}
+.last{
+    padding-top: 5%;
+}
+.back{
+    background-color: red;
+    background-image: linear-gradient(rgb(255, 0, 0));
+}
+.end{
+    text-align: center;
+   
+    padding-top: 5%;
+    background-image: url(images/pexels-photo-396547.jpeg);
+}
+h3{
+    color: red;
+}
+h6{
+    color: rgb(243, 18, 18);
+}
